@@ -191,7 +191,5 @@ if (!loggedin()) {
 </html>
 <?php
 }
-elseif (loggedin()) {
-	echo "You are already registered and logged in.";
-}
+
 ?>
